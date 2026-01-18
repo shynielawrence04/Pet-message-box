@@ -73,8 +73,7 @@ Using browser-native APIs (Web Audio API)
 Building responsive and themed user interfaces
 
 🚀 Live Demo
-
-(Optional – add link if hosted)
+https://shynielawrence04.github.io/Pet-message-box/
 
 📌 Author
 
